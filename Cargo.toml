@@ -1,6 +1,8 @@
 [package]
 name = "guess"
 version = "0.1.0"
+authors = ["Geovane Saraiva da Silva <geovane.saraiva.silva75@gmail.com>"]
 edition = "2021"
 
 [dependencies]
+rand = "*"
